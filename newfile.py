@@ -5,3 +5,11 @@ def do_something():
         print('Hello, world!')
 
 
+def add(a, b):
+    return a + b
+
+
+def sub(a, b):
+    return a - b
+
+
